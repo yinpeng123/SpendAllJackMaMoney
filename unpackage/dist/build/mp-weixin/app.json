@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/cart/cart"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "花光马云的钱",
+    "navigationBarBackgroundColor": "#FfFfFf",
+    "backgroundColor": "#FfFfFf"
+  },
+  "cloudFunctionRoot": "/cloudFunctionRoot",
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

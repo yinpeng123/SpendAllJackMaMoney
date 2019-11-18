@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "花光马云的钱",
+  "usingComponents": {
+    "uni-goods-nav": "/components/uni-goods-nav/uni-goods-nav",
+    "uni-number-box": "/components/uni-number-box/uni-number-box"
+  }
+}
