@@ -10,8 +10,8 @@
 	"libVersion": "2.9.2",
 	"appid": "wx5709f67c568c0e65",
 	"projectname": "SpendAllJackMaMoney",
-	"cloudfunctionRoot": "cloudFunctionRoot/",
-	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

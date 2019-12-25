@@ -24,7 +24,7 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.uni-numbox.data-v-2c335328 {
+.uni-numbox.data-v-3875f289 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -42,7 +42,7 @@
   line-height: 50rpx;
   width: 100%;
 }
-.uni-numbox__value.data-v-2c335328 {
+.uni-numbox__value.data-v-3875f289 {
   height: 50rpx;
   line-height: 50rpx;
   min-height: 50rpx;
@@ -50,7 +50,7 @@
   font-size: 32rpx;
   padding: 0 10px;
 }
-.uni-numbox__minus.data-v-2c335328, .uni-numbox__plus.data-v-2c335328 {
+.uni-numbox__minus.data-v-3875f289, .uni-numbox__plus.data-v-3875f289 {
   position: relative;
   width: 50rpx;
   height: 50rpx;
@@ -58,13 +58,13 @@
   color: #333;
   border-radius: 50%;
 }
-.uni-numbox__minus.data-v-2c335328 {
+.uni-numbox__minus.data-v-3875f289 {
   background-color: #e0e0e0;
 }
-.uni-numbox__plus.data-v-2c335328 {
+.uni-numbox__plus.data-v-3875f289 {
   background-color: orange;
 }
-.uni-numbox__minus.data-v-2c335328:before, .uni-numbox__plus.data-v-2c335328:before {
+.uni-numbox__minus.data-v-3875f289:before, .uni-numbox__plus.data-v-3875f289:before {
   content: '';
   position: absolute;
   left: 50%;
@@ -73,7 +73,7 @@
   border-top: 6rpx solid;
   margin: -3rpx 0 0 -10rpx;
 }
-.uni-numbox__plus.data-v-2c335328:after {
+.uni-numbox__plus.data-v-3875f289:after {
   content: '';
   position: absolute;
   left: 50%;
@@ -82,7 +82,7 @@
   border-left: 6rpx solid;
   margin: -10rpx 0 0 -3rpx;
 }
-.uni-numbox--disabled.data-v-2c335328 {
+.uni-numbox--disabled.data-v-3875f289 {
   background-color: #f0f0f0;
   color: #c0c0c0;
 }

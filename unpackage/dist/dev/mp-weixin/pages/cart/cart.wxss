@@ -24,14 +24,14 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.text-color-placeholder.data-v-5a359422 {
+.text-color-placeholder.data-v-3111d1a1 {
   color: #666666;
 }
-.money-text-color.data-v-5a359422 {
+.money-text-color.data-v-3111d1a1 {
   color: #e80080;
   font-weight: 500;
 }
-.cart.data-v-5a359422 {
+.cart.data-v-3111d1a1 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -46,7 +46,7 @@
       -ms-flex-align: center;
           align-items: center;
 }
-.product-list.data-v-5a359422 {
+.product-list.data-v-3111d1a1 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -66,7 +66,7 @@
           justify-content: flex-start;
   margin-top: 10px;
 }
-.product.data-v-5a359422 {
+.product.data-v-3111d1a1 {
   margin: 10rpx;
   width: 720rpx;
   height: 180rpx;
@@ -90,16 +90,16 @@
   border-radius: 10rpx;
   background: #f8f8f8;
 }
-.product-image-view.data-v-5a359422 {
+.product-image-view.data-v-3111d1a1 {
   padding: 10rpx;
   font-size: 0;
 }
-.product-image-view .product-image.data-v-5a359422 {
+.product-image-view .product-image.data-v-3111d1a1 {
     border-radius: 5rpx;
     width: 160rpx;
     height: 160rpx;
 }
-.product-info.data-v-5a359422 {
+.product-info.data-v-3111d1a1 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -123,7 +123,7 @@
   height: 160rpx;
   padding: 20rpx;
 }
-.product-info .product-title.data-v-5a359422 {
+.product-info .product-title.data-v-3111d1a1 {
     width: 100%;
     word-break: break-all;
     display: -webkit-box;
@@ -134,7 +134,7 @@
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
 }
-.product-info .product-price-numer.data-v-5a359422 {
+.product-info .product-price-numer.data-v-3111d1a1 {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -149,20 +149,20 @@
         -ms-flex-pack: justify;
             justify-content: space-between;
 }
-.product-info .product-price-numer .product-price.data-v-5a359422 {
+.product-info .product-price-numer .product-price.data-v-3111d1a1 {
       -webkit-box-flex: 1;
       -webkit-flex: 1;
           -ms-flex: 1;
               flex: 1;
 }
-.product-info .product-price-numer .product-number.data-v-5a359422 {
+.product-info .product-price-numer .product-number.data-v-3111d1a1 {
       -webkit-box-flex: 1;
       -webkit-flex: 1;
           -ms-flex: 1;
               flex: 1;
       text-align: right;
 }
-.jackMa-money-info.data-v-5a359422 {
+.jackMa-money-info.data-v-3111d1a1 {
   width: 720rpx;
   margin-top: 100rpx;
   text-align: right;

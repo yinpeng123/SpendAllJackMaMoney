@@ -12,5 +12,6 @@
     "backgroundColor": "#FfFfFf"
   },
   "cloudFunctionRoot": "/cloudFunctionRoot",
-  "usingComponents": {}
+  "usingComponents": {},
+  "sitemapLocation": "sitemap37.json"
 }
