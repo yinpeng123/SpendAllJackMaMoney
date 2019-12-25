@@ -79,7 +79,7 @@
             }
         },
         "router" : {
-            "base" : "/unpackage/dist/build/h5/"
+            "base" : "/"
         }
     }
 }
